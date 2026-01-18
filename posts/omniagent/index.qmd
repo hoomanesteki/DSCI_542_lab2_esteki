@@ -1,0 +1,152 @@
+---
+title: "Talk to Your Data: How OmniAgent Makes Data Science Conversational"
+author: "Hooman Esteki"
+date: "2026-01-17"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: false
+---
+
+## In a Summary:
+
+OmniAgent gives the power to the users to communicate with their data, taking away the technical limitations and allowing data science to be part of everyday decision making.
+
+🔗 Project Repository: https://github.com/hoomanesteki/omniagent/
+
+------------------------------------------------------------------------
+
+## The Problem: Data is Everywhere, but Insight is Not
+
+Every day organizations generate huge amounts of data such as sales records, customer behavior, marketing metrics, and operational logs. However, it is still difficult for most decision-makers to do their own data explorations. Even for the simplest of queries like *“What changed last month?”* they depend almost entirely on analysts.
+
+This reliance on analysts delays the decision-making process and prevents organizations from fully utilizing their data resources. The problem is not that data is hard to come by, it is that it is hard to access.
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## Why Data Feels Hard for Non-Technical Users
+
+The majority of the tools expect the following technical skills from the users:
+
+-   Writing SQL queries\
+-   Using Python or R\
+-   Understanding statistical outputs\
+-   Interpreting complex dashboards
+
+Dashboards are not only informative but also unchanging. Any data that is outside the limits of pre-made charts needs a technical expert's help.
+
+Business users are looking for solutions, not programming.
+
+------------------------------------------------------------------------
+
+## Existing Solutions Still Create Friction
+
+Numerous solutions attempt to make analytics easier, but still some deficiency exists:
+
+-   Dashboards lack comprehensiveness\
+-   Chatbots provide standard responses and make up facts\
+-   Analysts give precise conclusions but take a long time\
+-   AutoML has great capability but is not engaging
+
+Currently, non-technical users cannot simply and risk-free communicate through data exploration.
+
+------------------------------------------------------------------------
+
+## The Solution: OmniAgent (Problem → Solution Framework)
+
+OmniAgent is an AI-powered assistant that allows users to ask data questions in plain English and automatically generates insights, visualizations, and predictions through specialized agents.
+
+Instead of learning tools, users simply talk to their data.
+
+------------------------------------------------------------------------
+
+## How OmniAgent Works (Layered Explanation)
+
+OmniAgent is a virtual assistant that operates on artificial intelligence technology which enables users to interact with data using simple English, thus producing insights, visualizations, and forecasts via dedicated agents.
+
+Instead of mastering tools, users just chat with their data.
+
+------------------------------------------------------------------------
+
+## How OmniAgent Works (Layered Explanation)
+
+OmniAgent employs a multi-agent structure similar to that of a team:
+
+-   🧠 Master Agent directs queries\
+-   📊 Stats Agent interprets data\
+-   📈 Visualization Agent creates graphs\
+-   📦 Aggregation Agent organizes data\
+-   🤖 Prediction Agent trains ML models\
+-   🔍 SQL Agent checks out data sets\
+-   🔮 Dynamic Agent conducts tailored analysis\
+-   🎤 Voice Agent transcribes spoken words
+
+Every agent is assigned a specific task and operates like a professional analytics team, which is quite similar to a real analytics team working behind the scenes.
+
+------------------------------------------------------------------------
+
+## Metaphor: OmniAgent as a Data Team
+
+Imagine asking a question in a meeting room full of specialists. A coordinator listens and assigns your request to the right expert instantly.
+
+OmniAgent recreates that experience using AI.
+
+------------------------------------------------------------------------
+
+## Real-World Example
+
+A product manager submits a CSV file and questions:
+
+-   “Display monthly trend of income”\
+-   “What area lost the most?”\
+-   “Forecast sales for the next quarter?”
+
+OmniAgent seamlessly interprets the data and generates visuals and forecasts—again, no programming needed!
+
+Discussion turns into examination.
+
+------------------------------------------------------------------------
+
+## Safe AI Execution
+
+For complex activities, OmniAgent relies on artificial intelligence to generate Python code. However, the code is not executed directly:
+
+1.  The analysis is suggested by the system\
+2.  The plan is displayed\
+3.  The execution is conducted only after user’s approval
+
+The code is executed in a secure sandbox environment to ensure that no unsafe operations occur.
+
+------------------------------------------------------------------------
+
+## Voice Makes Data Even More Accessible
+
+Microphone input allows users to ask their questions in spoken form. Furthermore, using one's voice minimizes effort and lowers the barrier even more.
+
+The process of data exploration now feels humanlike — as if speaking.
+
+------------------------------------------------------------------------
+
+## Why This Matters
+
+OmniAgent is showcasing a fresh approach to science communication in the data field:
+
+-   It opens up analytics to everyone\
+-   Enables faster decision-making\
+-   Cuts down on the need for analysts' help\
+-   Connects people and machines via dialogue
+
+This is exactly the case with the main tenet of data science communication that is comprehensible and usable by non-technical audiences.
+
+------------------------------------------------------------------------
+
+## Takeaway
+
+The future of data science is not only about the development of intelligent models, but rather it is about having more human interaction and communication with data.
+
+OmniAgent proves that the ability of users to communicate with their data makes the process of obtaining insights much quicker, simpler, and available to all.
+
+*Note: I used ChatGPT to assist with improving grammar, clarity, and wording in this document.*
