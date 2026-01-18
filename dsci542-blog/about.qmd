@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+Hooman Esteki is a Master of Data Science student at UBC focused on machine learning, applied analytics, and building AI tools that simplify data workflows.
